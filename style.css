@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=VT323&display=swap');
+body{
+    background-image: url('./Assets/cute-web-page-backgrounds.jpg');
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+.new-Fonts{
+    font-family: 'VT323', monospace;
+    font-size: 80px;
+
+}
+.skillTitle{
+    font-size: 30px;
+}
+.card_center{
+    height: 100vh;
+}
+.card_center_1{
+    height: 58vh;
+}
+.myImg{
+    border-radius: 50%;
+}
+.coler-light{
+    color: #8A2BE2;
+}
